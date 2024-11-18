@@ -1,0 +1,12 @@
+ezcord
+nextcord.py
+chat-exporter
+pillow
+requests
+PyNaCl
+FFmpeg
+youtube-dl
+yt-dlp
+setuptools
+nextcord
+pytube
