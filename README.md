@@ -1,6 +1,6 @@
 # Community Radio Bot  
 
-## Beschreibung German
+## Beschreibung Deutsch
 Der Community Radio Bot ist ein vielseitiger Discord-Bot, der es Nutzern ermöglicht, aus einer Auswahl von über 40 Radiosendern ihre Lieblingsstation direkt in einem Voice-Channel zu hören. Der Bot bietet eine Vielzahl von Befehlen für die Interaktion, Statistiken, Verwaltung und spezielle Funktionen für Beta-Nutzer.  
 
 ---
